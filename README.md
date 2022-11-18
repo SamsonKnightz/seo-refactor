@@ -5,14 +5,14 @@ Link to my [Horiseon refactor project](https://github.com/SamsonKnightz/seo-refa
 
 Check out my other [projects](https://github.com/SamsonKnightz) on github.
 ## Description
-With the given webpage from a marketing agency, the codebase now follows accessibility standards. This is created to optimize search engines. If you open up the source code by right clicking on the webpage with mouse cursor and then left click [Inspect](#Inspect). You will find the structured semantic HTML elememnts. You will also find elements that follow a logical structure of styling and position. You could also view the alt attributes in the image elements. All images has been resized, due to webpage loading time. I have also added heading attributes that fall in sequential order. The title element was added to add a title pertaining to the webpage.
+With the given webpage from a marketing agency, the codebase now follows accessibility standards. This is created to optimize search engines. If you open up the source code by right clicking on the webpage with mouse cursor and then left click [Inspect](#How-to-Inspect). You will find the structured semantic HTML elememnts. You will also find elements that follow a logical structure of styling and position. You could also view the alt attributes in the image elements. All images has been resized, due to webpage loading time. I have also added heading attributes that fall in sequential order. The title element was added to add a title pertaining to the webpage.
 
 ## Table Of Contents
-+ [How to Inspect](#Inspect)
++ [How to Inspect](#How-to-Inspect)
 
 + [Changes](#Changes)
 
-+ [Visuals](#Visuals)
++ [Visual](#Visual)
 
 + [Resources](#Resources)
 
